@@ -1,7 +1,5 @@
 ---
-
 title: "GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis"
-
 authors:
 - admin
 - Gurpreet S. Kalsi
@@ -19,6 +17,7 @@ authors:
 - Can Alkan
 - Saugata Ghose
 - Onur Mutlu
+
 date: "2020-10-17"
 
 # Publication type.
