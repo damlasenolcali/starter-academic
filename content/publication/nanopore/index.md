@@ -1,50 +1,34 @@
 ---
 
-title: "GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis"
+title: "Nanopore Sequencing Technology and Tools for Genome Assembly: Computational Analysis of the Current State, Bottlenecks and Future Directions"
 authors:
 - Damla Senol Cali
-- Gurpreet S. Kalsi
-- Zulal Bingol
-- Can Firtina
-- Lavanya Subramanian
 - Jeremie S. Kim
-- Rachata Ausavarungnirun
-- Mohammed Alser
-- Juan Gomez-Luna
-- Amirali Boroumand
-- Anant Nori
-- Allison Scibisz
-- Sreenivas Subramoney
-- Can Alkan
 - Saugata Ghose
+- Can Alkan
 - Onur Mutlu
-date: "2020-10-17"
+date: "2020-04-02"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in *Proceedings of the 53rd International Symposium on Microarchitecture*
-publication_short: In *MICRO*
+publication: In *Briefings in Bioinformatics*
 
 links:
 - name: Paper
-  url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_micro20.pdf
-- name: Lightning Talk Video
-  url: https://www.youtube.com/watch?v=nJs3RRnvk_k
-- name: Lightning Talk Slides (PDF)
-  url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_micro20-lightning-talk.pdf
-- name: Lightning Talk Slides (PPTX)
-  url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_micro20-lightning-talk.pptx
-- name: Talk Video
-  url: https://www.youtube.com/watch?v=srQVqPJFqjo
-- name: Talk Slides (PDF)
-  url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_micro20-talk.pdf
-- name: Talk Slides (PPTX)
-  url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_micro20-talk.pptx
+  url: https://academic.oup.com/bib/article-abstract/20/4/1542/4958758?redirectedFrom=fulltext
+- name: arXiv Version
+  url: https://arxiv.org/pdf/1711.08774.pdf
+- name: AACBB 2019 Talk Video
+  url: https://www.youtube.com/watch?v=Zug8FonO8Vo
+- name: Slides (PDF)
+  url: https://people.inf.ethz.ch/omutlu/pub/nanopore-sequencing-technology-and-tools-for-genome-assembly-AACBB18-talk.pdf
+- name: Slides (PPTX)
+  url: https://people.inf.ethz.ch/omutlu/pub/nanopore-sequencing-technology-and-tools-for-genome-assembly-AACBB18-talk.pptx
   
 
 ---
