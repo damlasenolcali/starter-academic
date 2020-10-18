@@ -1,6 +1,6 @@
 ---
 
-title: GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis
+title: "GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis"
 authors:
 - Damla Senol Cali
 - Gurpreet S. Kalsi
