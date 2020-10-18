@@ -43,12 +43,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=iYXWCzQAAAAJ
-- icon: cv
-  icon_pack: ai
-  link: cv.pdf
 - icon: envelope
   icon_pack: fas
   link: "mailto:dsenol@andrew.cmu.edu"
@@ -64,6 +58,12 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCSbGyv18Pm22rOOYT3ua0eg
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=iYXWCzQAAAAJ
+- icon: cv
+  icon_pack: ai
+  link: cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
