@@ -19,7 +19,7 @@ date: "2020-09-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Micro*
+publication: *IEEE Micro*
 
 links:
 - name: Paper
