@@ -63,7 +63,7 @@ social:
   link: https://scholar.google.com/citations?user=iYXWCzQAAAAJ
 - icon: cv
   icon_pack: ai
-  link: cv.pdf
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
