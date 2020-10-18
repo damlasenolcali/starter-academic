@@ -20,9 +20,9 @@ publication: "*Briefings in Bioinformatics*"
 
 links:
 - name: Paper
-  url_pdf: https://arxiv.org/pdf/1711.08774.pdf
-- name: BiB Version
-  url: https://academic.oup.com/bib/article-abstract/20/4/1542/4958758?redirectedFrom=fulltext 
+  url: https://academic.oup.com/bib/article-abstract/20/4/1542/4958758?redirectedFrom=fulltext
+- name: arXiv Version
+  url: https://arxiv.org/pdf/1711.08774.pdf
 - name: AACBB 2019 Talk Video
   url: https://www.youtube.com/watch?v=Zug8FonO8Vo
 - name: Slides (PDF)
