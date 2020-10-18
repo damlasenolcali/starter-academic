@@ -1,7 +1,6 @@
 ---
 
-title: "Accelerating Genome Analysis:  
-A Primer on an Ongoing Journey"
+title: "Accelerating Genome Analysis: A Primer on an Ongoing Journey"
 authors:
 - Mohammed Alser
 - Zulal Bingol
@@ -19,11 +18,10 @@ date: "2020-09-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *IEEE Micro*
+publication: "*IEEE Micro*"
 
 links:
-- name: Paper
-  url: https://people.inf.ethz.ch/omutlu/pub/AcceleratingGenomeAnalysis_ieeemicro20.pdf
+  url_pdf: https://people.inf.ethz.ch/omutlu/pub/AcceleratingGenomeAnalysis_ieeemicro20.pdf
 
   
 
