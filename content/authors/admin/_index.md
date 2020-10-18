@@ -52,12 +52,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/damlasenolcali
-- icon: github
-  icon_pack: fab
-  link: https://github.com/damlasenolcali
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCSbGyv18Pm22rOOYT3ua0eg
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=iYXWCzQAAAAJ
