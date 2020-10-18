@@ -16,13 +16,12 @@ date: "2018-04-02"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Briefings in Bioinformatics*
+publication: "*Briefings in Bioinformatics*"
 
 links:
-- name: Paper
-  url: https://academic.oup.com/bib/article-abstract/20/4/1542/4958758?redirectedFrom=fulltext
-- name: arXiv Version
-  url: https://arxiv.org/pdf/1711.08774.pdf
+url_pdf: https://arxiv.org/pdf/1711.08774.pdf
+- name: Paper (BiB)
+  url: https://academic.oup.com/bib/article-abstract/20/4/1542/4958758?redirectedFrom=fulltext 
 - name: AACBB 2019 Talk Video
   url: https://www.youtube.com/watch?v=Zug8FonO8Vo
 - name: Slides (PDF)
