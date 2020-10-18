@@ -34,6 +34,24 @@ date_format = "Jan 2006"
   date_start = "2015-08-31"
   date_end = ""
   description = ""
+  
 
+[[experience]]
+  title = "Research Intern"
+  company = "Intel Labs"
+  company_url = ""
+  location = "Santa Clara, CA"
+  date_start = "2018-05-01"
+  date_end = "2018-08-01"
+  description = ""
+  
+[[experience]]
+  title = "Undergraduate Research and Teaching Assistant"
+  company = "Bilkent University"
+  company_url = ""
+  location = "Ankara, Turkey"
+  date_start = "2013-02-01"
+  date_end = "2015-06-01"
+  description = ""
 
 +++
