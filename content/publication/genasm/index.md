@@ -27,7 +27,7 @@ date: "2020-10-17"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Proceedings of the 53rd International Symposium on Microarchitecture (MICRO)*
+publication: In *Proceedings of the 53rd International Symposium on Microarchitecture (MICRO)*
 
 
 links:
