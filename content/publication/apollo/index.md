@@ -21,6 +21,7 @@ publication_types: ["2"]
 publication: "*Bioinformatics*"
 
 links:
-url_pdf: https://people.inf.ethz.ch/omutlu/pub/apollo-technology-independent-genome-assembly-polishing_bioinformatics20.pdf
+  - name: Paper
+    url: https://people.inf.ethz.ch/omutlu/pub/apollo-technology-independent-genome-assembly-polishing_bioinformatics20.pdf
 
 ---
