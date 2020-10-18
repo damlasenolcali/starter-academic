@@ -16,7 +16,7 @@ date: "2018-04-02"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Briefings in Bioinformatics*
+publication: *Briefings in Bioinformatics*
 
 links:
 - name: Paper
