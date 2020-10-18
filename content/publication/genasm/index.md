@@ -1,6 +1,6 @@
 ---
 
-title: "GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis"
+title: GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis
 authors:
 - Damla Senol Cali
 - Gurpreet S. Kalsi
@@ -27,8 +27,7 @@ date: "2020-10-17"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in *Proceedings of the 53rd International Symposium on Microarchitecture*
-publication_short: In *MICRO*
+publication: To appear in *Proceedings of the 53rd International Symposium on Microarchitecture (MICRO)*
 
 links:
 - name: Paper
