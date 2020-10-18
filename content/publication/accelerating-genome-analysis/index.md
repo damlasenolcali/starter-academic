@@ -21,7 +21,8 @@ publication_types: ["2"]
 publication: "*IEEE Micro*"
 
 links:
-  url_pdf: https://people.inf.ethz.ch/omutlu/pub/AcceleratingGenomeAnalysis_ieeemicro20.pdf
+  - name: Paper
+    url: https://people.inf.ethz.ch/omutlu/pub/AcceleratingGenomeAnalysis_ieeemicro20.pdf
 
   
 
