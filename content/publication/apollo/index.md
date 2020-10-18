@@ -1,16 +1,15 @@
 ---
 
-title: "Accelerating Genome Analysis:  
-A Primer on an Ongoing Journey"
+title: "Apollo: A Sequencing-Technology-Independent, Scalable, and Accurate Assembly Polishing Algorithm"
 authors:
-- Mohammed Alser
-- Zulal Bingol
-- admin
+- Can Firtina
 - Jeremie S. Kim
-- Saugata Ghose
+- Mohammed Alser
+- admin
+- A. Ercument Cicek
 - Can Alkan
 - Onur Mutlu
-date: "2020-09-01"
+date: "2020-03-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +18,9 @@ date: "2020-09-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *IEEE Micro*
+publication: "*Bioinformatics*"
 
 links:
-- name: Paper
-  url: https://people.inf.ethz.ch/omutlu/pub/AcceleratingGenomeAnalysis_ieeemicro20.pdf
+url_pdf: https://people.inf.ethz.ch/omutlu/pub/apollo-technology-independent-genome-assembly-polishing_bioinformatics20.pdf
 
 ---
