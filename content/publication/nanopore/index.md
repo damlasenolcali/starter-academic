@@ -19,15 +19,15 @@ publication_types: ["2"]
 publication: "*Briefings in Bioinformatics*"
 
 links:
-  url_pdf: https://arxiv.org/pdf/1711.08774.pdf
-  - name: Paper (BiB)
-    url: https://academic.oup.com/bib/article-abstract/20/4/1542/4958758?redirectedFrom=fulltext 
-  - name: AACBB 2019 Talk Video
-    url: https://www.youtube.com/watch?v=Zug8FonO8Vo
-  - name: Slides (PDF)
-    url: https://people.inf.ethz.ch/omutlu/pub/nanopore-sequencing-technology-and-tools-for-genome-assembly-AACBB18-talk.pdf
-  - name: Slides (PPTX)
-    url: https://people.inf.ethz.ch/omutlu/pub/nanopore-sequencing-technology-and-tools-for-genome-assembly-AACBB18-talk.pptx
+url_pdf: https://arxiv.org/pdf/1711.08774.pdf
+- name: Paper (BiB)
+  url: https://academic.oup.com/bib/article-abstract/20/4/1542/4958758?redirectedFrom=fulltext 
+- name: AACBB 2019 Talk Video
+  url: https://www.youtube.com/watch?v=Zug8FonO8Vo
+- name: Slides (PDF)
+  url: https://people.inf.ethz.ch/omutlu/pub/nanopore-sequencing-technology-and-tools-for-genome-assembly-AACBB18-talk.pdf
+- name: Slides (PPTX)
+  url: https://people.inf.ethz.ch/omutlu/pub/nanopore-sequencing-technology-and-tools-for-genome-assembly-AACBB18-talk.pptx
   
 
 ---
