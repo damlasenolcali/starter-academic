@@ -79,4 +79,5 @@ user_groups:
 - Visitors
 ---
 
-Damla Senol Cali is a Ph.D. candidate in the [SAFARI Research Group](https://safari.ethz.ch) @ [Carnegie Mellon University](www.cmu.edu), advised by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/index.html) and [Prof. Saugata Ghose](http://users.ece.cmu.edu/~saugatag/). Her research focuses on hardware/software co-design for accelerating bioinformatics applications and computational methods for genome sequence analysis. She is also excited about memory systems and processing-in-memory.
+Damla Senol Cali is a Ph.D. candidate in the [SAFARI Research Group](https://safari.ethz.ch) at 
+[Carnegie Mellon University](www.cmu.edu), advised by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/index.html) and [Prof. Saugata Ghose](http://users.ece.cmu.edu/~saugatag/). Her research focuses on hardware/software co-design for accelerating bioinformatics applications and computational methods for genome sequence analysis. She is also excited about memory systems and processing-in-memory.
