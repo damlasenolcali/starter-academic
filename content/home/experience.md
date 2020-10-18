@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Intel Labs"
   company_url = ""
   location = "Portland, OR"
-  date_start = "May 2020"
+  date_start = "2020-05-18"
   date_end = ""
   description = ""
 
@@ -31,26 +31,9 @@ date_format = "Jan 2006"
   company = "Carnegie Mellon University"
   company_url = ""
   location = "Pittsburgh, PA"
-  date_start = "Aug 2015"
+  date_start = "2015-08-31"
   date_end = ""
   description = ""
 
-[[experience]]
-  title = "Research Intern"
-  company = "Intel Labs"
-  company_url = ""
-  location = "Santa Clara, CA"
-  date_start = "May 2018"
-  date_end = "Aug 2018"
-  description = ""
-  
-[[experience]]
-  title = "Undergraduate Research and Teaching Assistant"
-  company = "Bilkent University"
-  company_url = ""
-  location = "Ankara, Turkey"
-  date_start = "Feb 2013"
-  date_end = "Jun 2015"
-  description = ""
 
 +++
