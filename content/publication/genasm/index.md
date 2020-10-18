@@ -1,4 +1,5 @@
 ---
+
 title: "GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis"
 authors:
 - admin
@@ -17,7 +18,6 @@ authors:
 - Can Alkan
 - Saugata Ghose
 - Onur Mutlu
-
 date: "2020-10-17"
 
 # Publication type.
@@ -27,7 +27,8 @@ date: "2020-10-17"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Proceedings of the 53rd International Symposium on Microarchitecture (MICRO)*
+publication: To appear in *Proceedings of the 53rd International Symposium on Microarchitecture*
+publication_short: In *MICRO*
 
 links:
 - name: Paper
@@ -45,6 +46,5 @@ links:
 - name: Talk Slides (PPTX)
   url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_micro20-talk.pptx
   
-
 
 ---
