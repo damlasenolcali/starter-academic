@@ -2,7 +2,7 @@
 
 title: "Nanopore Sequencing Technology and Tools for Genome Assembly: Computational Analysis of the Current State, Bottlenecks and Future Directions"
 authors:
-- Damla Senol Cali
+- admin
 - Jeremie S. Kim
 - Saugata Ghose
 - Can Alkan
