@@ -27,8 +27,8 @@ date: "2020-10-17"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in *Proceedings of the 53rd International Symposium on Microarchitecture*
-publication_short: In *MICRO*
+publication: *Proceedings of the 53rd International Symposium on Microarchitecture (MICRO)*
+
 
 links:
 - name: Paper
