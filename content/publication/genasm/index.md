@@ -2,7 +2,7 @@
 
 title: "GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis"
 authors:
-- Damla Senol Cali
+- admin
 - Gurpreet S. Kalsi
 - Zulal Bingol
 - Can Firtina
@@ -27,7 +27,7 @@ date: "2020-10-17"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in *Proceedings of the 53rd International Symposium on Microarchitecture (MICRO)*
+publication: *Proceedings of the 53rd International Symposium on Microarchitecture (MICRO)*
 
 links:
 - name: Paper
@@ -45,5 +45,6 @@ links:
 - name: Talk Slides (PPTX)
   url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_micro20-talk.pptx
   
+
 
 ---
