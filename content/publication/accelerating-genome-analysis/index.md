@@ -1,6 +1,7 @@
 ---
 
-title: "Accelerating Genome Analysis: A Primer on an Ongoing Journey"
+title: """Accelerating Genome Analysis:  
+A Primer on an Ongoing Journey"""
 authors:
 - Mohammed Alser
 - Zulal Bingol
