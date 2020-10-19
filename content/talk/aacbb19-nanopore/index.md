@@ -6,11 +6,15 @@ date: "2019-02-16"
 all_day: true
 location: "AACBB 2019, Washington, DC"
 
-#links:
-#- name: Slides (PDF)
-#  url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_ARMSummit20-long-talk.pdf
-#- name: Slides (PPTX)
-#  url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_ARMSummit20-long-talk.pptx
+links:
+- icon: youtube
+  icon_pack: fab
+  name: AACBB 2019 Talk Video
+  url: https://www.youtube.com/watch?v=Zug8FonO8Vo
+- name: Slides (PDF)
+  url: https://people.inf.ethz.ch/omutlu/pub/nanopore-sequencing-technology-and-tools-for-genome-assembly-AACBB18-talk.pdf
+- name: Slides (PPTX)
+  url: https://people.inf.ethz.ch/omutlu/pub/nanopore-sequencing-technology-and-tools-for-genome-assembly-AACBB18-talk.pptx
 
 ---
 
