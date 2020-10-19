@@ -9,7 +9,7 @@ location: "AACBB 2019, Washington, DC"
 links:
 - icon: youtube
   icon_pack: fab
-  name: AACBB 2019 Talk Video
+  name: Talk Video
   url: https://www.youtube.com/watch?v=Zug8FonO8Vo
 - name: Slides (PDF)
   url: https://people.inf.ethz.ch/omutlu/pub/nanopore-sequencing-technology-and-tools-for-genome-assembly-AACBB18-talk.pdf
