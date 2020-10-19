@@ -4,7 +4,7 @@ event: "ARM Research Summit"
 event_url: https://www.arm.com/company/events/research-summit
 date: "2020-09-10"
 all_day: true
-location: "ARM Research Summit (Virtual)"
+location: "ARM Research Summit 2020 (Virtual)"
 
 links:
 - icon: youtube
