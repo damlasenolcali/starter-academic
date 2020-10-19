@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/damlasenolcali/damlasenolcali.github.io.git
-	branch = master
