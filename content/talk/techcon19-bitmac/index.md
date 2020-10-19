@@ -11,13 +11,6 @@ location: "TECHCON 2019, Austin, TX"
 #- name: Slides (PPTX)
 #  url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_ARMSummit20-long-talk.pptx
 
-**Top 10 Best Student Presenter Award**
-
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
-
 ---
 
-
+**Top 10 Best Student Presenter Award**
