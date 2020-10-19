@@ -13,4 +13,4 @@ location: "TECHCON 2019, Austin, TX"
 
 ---
 
-**Top 10 Best Student Presenter Award**
+[Top 10 Best Student Presenter Award](https://twitter.com/SAFARI_ETH_CMU/status/1172126112782147584?s=20)
