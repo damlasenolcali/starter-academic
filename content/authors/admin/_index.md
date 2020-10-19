@@ -52,7 +52,7 @@ social:
   link: https://twitter.com/damlasenolcali
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/damlasenolcali
+  link: https://linkedin.com/in/damlasenolcali
 - icon: github
   icon_pack: fab
   link: https://github.com/damlasenolcali
