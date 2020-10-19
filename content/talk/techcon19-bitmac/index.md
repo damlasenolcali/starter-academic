@@ -5,8 +5,6 @@ date: "2019-09-10"
 all_day: true
 location: "TECHCON 2019, Austin, TX"
 
-*Top 10 Best Student Presenter Award*
-
 #links:
 #- name: Slides (PDF)
 #  url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_ARMSummit20-long-talk.pdf
@@ -14,3 +12,5 @@ location: "TECHCON 2019, Austin, TX"
 #  url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_ARMSummit20-long-talk.pptx
 
 ---
+
+*Top 10 Best Student Presenter Award*
