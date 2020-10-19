@@ -13,4 +13,4 @@ location: "TECHCON 2019, Austin, TX"
 
 ---
 
-<div style="text-align: right"> **Top 10 Best Student Presenter Award** </div>
+<span style="color:red">**Top 10 Best Student Presenter Award**</span>
