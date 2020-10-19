@@ -13,4 +13,4 @@ location: "RECOMB-Seq 2018, Paris, France"
 
 ---
 
-**Best Poster Award**
+[Best Poster Award](https://twitter.com/RECOMBseq/status/987393392026976256?s=20)
