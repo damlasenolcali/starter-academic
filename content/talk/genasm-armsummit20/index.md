@@ -4,11 +4,8 @@ event: "ARM Research Summit"
 event_url: https://www.arm.com/company/events/research-summit
 date: "2020-09-20"
 
-authors: admin
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
+authors: 
+- admin
 
 links:
 - icon: youtube
