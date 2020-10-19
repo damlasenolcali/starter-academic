@@ -1,8 +1,11 @@
 ---
 title: "BitMAC: An In-Memory Accelerator for Bitvector-Based Sequence Alignment of Both Short and Long Genomic Reads"
 event: "TECHCON 2019"
-date: "2019-09"
+date: "2019-09-10"
+all_day: true
 location: "TECHCON 2019, Austin, TX"
+
+*Top 10 Best Student Presenter Award*
 
 #links:
 #- name: Slides (PDF)
