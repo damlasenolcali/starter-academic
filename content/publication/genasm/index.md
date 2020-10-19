@@ -33,13 +33,17 @@ publication: In *Proceedings of the 53rd International Symposium on Microarchite
 links:
 - name: Paper
   url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_micro20.pdf
-- name: Lightning Talk Video
+- icon: youtube
+  icon_pack: fab
+  name: Lightning Talk Video
   url: https://www.youtube.com/watch?v=nJs3RRnvk_k
 - name: Lightning Talk Slides (PDF)
   url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_micro20-lightning-talk.pdf
 - name: Lightning Talk Slides (PPTX)
   url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_micro20-lightning-talk.pptx
-- name: Talk Video
+- icon: youtube
+  icon_pack: fab
+  name: Talk Video
   url: https://www.youtube.com/watch?v=srQVqPJFqjo
 - name: Talk Slides (PDF)
   url: https://people.inf.ethz.ch/omutlu/pub/GenASM-approximate-string-matching-framework-for-genome-analysis_micro20-talk.pdf
