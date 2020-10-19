@@ -2,10 +2,8 @@
 title: "GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis"
 event: "ARM Research Summit"
 event_url: https://www.arm.com/company/events/research-summit
-date: "2020-09-20"
-
-authors: 
-- admin
+date: "2020-09-10"
+all_day: true
 
 links:
 - icon: youtube
